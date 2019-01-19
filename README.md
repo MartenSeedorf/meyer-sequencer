@@ -17,6 +17,5 @@ ToDo
 - mutation: different styles (up/down/upDown/etc. or adjust direction via slider)
 - mutation: more modes of distribution for the values (x², x³, x⁴, etc.)
 - triplets via the externe clock
-- makenote and scale for every extra output for every step
 - control-inlet for every switch and slider
 - help-patch
