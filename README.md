@@ -13,9 +13,6 @@ Meyer is an experimental sequencer written in purr data. While delivering the us
 
 ToDo
 
-- mutation: seperate Volume und Pitch
-- mutation: different styles (up/down/upDown/etc. or adjust direction via slider)
-- mutation: more modes of distribution for the values (x², x³, x⁴, etc.)
 - triplets via the externe clock
 - control-inlet for every switch and slider
 - help-patch
