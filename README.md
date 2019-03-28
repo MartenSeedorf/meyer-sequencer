@@ -14,4 +14,3 @@ Meyer is an experimental sequencer written in purr data. While delivering the us
 ToDo
 
 - triplets via the externe clock
-- help-patch
